@@ -6,4 +6,4 @@ students and researchers to cultivate the Latin American community within the
 [International Society for Music Information Retrieval](https://ismir.net/)
 (ISMIR) and the Artificial Intelligence (AI) communities.
 
-Check the [website](https://lamir-workshop.github.io/) for more information on this year event!
+Check the [website](https://lamir-workshop.github.io/) for more information!
