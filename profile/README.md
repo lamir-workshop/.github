@@ -1,4 +1,4 @@
-# Latin America Music Information Retrieval Worshop (LAMIR)
+# Latin American Music Information Retrieval Workshop (LAMIR)
 
 LAMIR is a biennial satellite event of the ISMIR conference and has been part of the
 [KHIPUx](https://khipu.ai/) 2024 events. It provides opportunities for local
